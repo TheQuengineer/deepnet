@@ -1,6 +1,7 @@
 # Deepnet
 
 **Multi-Layered Neural Network Example in Elixir**
+
 Machine Learning has made amazing advancements over the past few years and it is
 poised to take the field of artificial intelligence into new advancements. This fact
 has led to a growing interest from developers all around as to the how's and why's
