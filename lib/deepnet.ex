@@ -10,7 +10,7 @@ defmodule Deepnet do
   """
 
   defstruct [
-    user_input: [0, 0, 0],
+    user_input: [1, 0, 0],
     desired_target: [1, 1, 1]
   ]
 
