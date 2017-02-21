@@ -1,0 +1,8 @@
+%{"exprintf": {:hex, :exprintf, "0.2.0", "6c97364c75ddb848d0d6142ea3d882567369fc60f0b88a009f41470cab068a56", [:mix], []},
+  "flow": {:hex, :flow, "0.11.0", "6ca9a05f33e3df10bc2ab847ad470523d3a01673456049a60110467d2f31bd58", [:mix], [{:gen_stage, "~> 0.11.0", [hex: :gen_stage, optional: false]}]},
+  "gen_stage": {:hex, :gen_stage, "0.11.0", "943bdfa85c75fa624e0a36a9d135baad20a523be040178f5a215444b45c66ea4", [:mix], []},
+  "matrix": {:hex, :matrix, "0.3.2", "9c826bc3a1117bf5e1c5cdcf3a3d95456c93bc2e127a04e363e9fc90b724f784", [:mix], [{:exprintf, "~> 0.1", [hex: :exprintf, optional: false]}]},
+  "numbers": {:hex, :numbers, "1.0.0", "f1e224920ac347953faff00ecac1ee3f4b9e5103018eb3fc5d1999d53ae6418c", [:mix], []},
+  "numerix": {:hex, :numerix, "0.4.2", "7d6423b616f89302afbe8e97ee7b3323c6672ebe6eaf5917d4abba9e85d52795", [:mix], [{:flow, "~> 0.11", [hex: :flow, optional: false]}]},
+  "sfmt": {:hex, :sfmt, "0.13.0", "5a576f6a5c27ed5a8fd424a4f02e8c5e8dddc2d4b8ca2170961fa155aa5bf400", [:make], []},
+  "tensor": {:hex, :tensor, "1.0.1", "c1dad6e7f8ba710e0c0791ccab7071063ec589b65e252bb76444c1a7d5f6d9cb", [:mix], [{:numbers, "~> 1.0", [hex: :numbers, optional: false]}]}}
