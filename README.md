@@ -20,7 +20,7 @@ implemented Multi-Layered Neural Network using the
 `Deepnet` has a 3 x 3 architecture. This is a basic deep learning architecture that is
 good at training and solving a vast amount of problems. This project accompanies
 the new blog post called `Deep Learning: Building and Training a Multi-Layered
-Neural Network in Elixir`. The post can be found [Here](http://automatingthefuture.com)
+Neural Network in Elixir`. The post can be found [Here](http://tinyurl.com/jkgy3za)
 
 ## Installation
 
